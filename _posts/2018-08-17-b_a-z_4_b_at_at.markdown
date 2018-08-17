@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "/\b[a-z]^{4}\b/ ...... @_@?"
+date:       2018-08-17 13:16:13 +0000
+permalink:  b_a-z_4_b_at_at
+---
+
+
+Regular Expressions... it's Martian! I learned the basic stuff  /text match/  and  the  .scan  and the  .match, oh and let's not forget about  .grep  !!! My eyes are saying, "What in the world are you doing to me????" (Feels pretty literal, too!)
+
+It took me forever to figure out how to complete the lab for RegEx because the googling syntax didn't really work for me and the explanations I found online aren't very helpful... But the lessons made it seem so simple. 
+
+I definitely had to ask for help to try to figure out the lab. I learned that RegEx is read from right to left, so if you want to say something that's at the end, then you write what is it first before using \z for end of line... is't not written with \z first then what you're expecting at the end of the string.... it is all sorts of confusing for me...
+
+In the end... I think have a better understanding of how to write an RegEx. I'm sure I'll have to do research in the future but I think where I am right now is a good start! ^_^ that's just a smiley face
+
+
